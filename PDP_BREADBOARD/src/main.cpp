@@ -3,6 +3,7 @@
 // Define the pins that we will use
 #define SENSOR 33
 #define LED 26
+#define LED2 27
 
 void setup() {
   // put your setup code here, to run once:
